@@ -1,0 +1,1 @@
+SELECT * FROM calcetto.giocatori_ruoli;
